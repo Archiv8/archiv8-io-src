@@ -1,0 +1,12 @@
+{
+  "integrity": {
+    "emoji": ":wrench:",
+    "altEmojis": [],
+    "name": "integ",
+    "altNames": [],
+    "tags": [],
+    "types": [],
+    "description": "Used when new integrity tags have been generated",
+    "examples": []
+  }
+}

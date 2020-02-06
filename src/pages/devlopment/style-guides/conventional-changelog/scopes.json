@@ -1,0 +1,12 @@
+{
+  "changelog": {
+    "emoji": ":date:"
+    "altEmojis": [],
+    "name": "LOG",
+    "altNames": [],
+    "tags": [],
+    "scopes": [],
+    "description": "Used when refering to a changelog / commit log",
+    "examples": []
+  }
+}

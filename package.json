@@ -1,0 +1,36 @@
+{
+  "name": "archiv8-io-src",
+  "version": "0.0.1",
+  "description": "Website source for Archiv8.",
+  "keywords": [
+    "Arch Linux"
+  ],
+  "homepage": "https://archiv8.github.io",
+  "bugs": {
+    "url": "https://github.com/archiv8/archiv8-io-src/issues",
+    "email": "6961242+rossclarkartist@users.noreply.github.com>"
+  },
+  "license": "MIT AND CC-BY-SA-4.0",
+  "author": {
+    "name": "Ross Clark",
+    "email": "archiv8@artisteducator.com",
+    "website": "https://archiv8.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archiv8/archiv8.git"
+  },
+  "engines": {
+    "node": ">=12.13.0",
+    "npm": ">=1.21.0"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-react": "^7.17.0",
+    "jsdoc": "^3.6.3"
+  }
+}

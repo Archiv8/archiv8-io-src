@@ -1,0 +1,62 @@
+{
+  "changelog": {
+    "emoji": ":date:"
+    "altEmojis": [],
+    "name": "LOG",
+    "altNames": [],
+    "tags": [],
+    "scopes": [],
+    "description": "Used when refering to a changelog / commit log",
+    "examples": []
+  },
+  "fix": {
+    "emoji": ":wrench:"
+    "altEmojis": [],
+    "name": "FIX",
+    "altNames": [],
+    "tags": [],
+    "scopes": [],
+    "description": "Used when fixing an issue",
+    "examples": []
+  },
+  "init": {
+    "emoji": ":tada:"
+    "altEmojis": [],
+    "name": "INIT",
+    "altNames": [],
+    "tags": [],
+    "scopes": [],
+    "description": "Used when initializing a repository",
+    "examples": []
+  },
+  "pack": {
+    "emoji": ":gift:"
+    "altEmojis": [],
+    "name": "PACK",
+    "altNames": [],
+    "tags": [],
+    "scopes": [],
+    "description": "Used when refering to changes in the packaging, particularly the PKGBUILD and .SRCINFO",
+    "examples": []
+  },
+  "secure": {
+    "emoji": ":cop:"
+    "altEmojis": [],
+    "name": "SECURE",
+    "altNames": [],
+    "tags": [],
+    "scopes": [],
+    "description": "Used when addressing security related items",
+    "examples": []
+  },
+  "tool": {
+    "emoji": ":wrench:"
+    "altEmojis": [],
+    "name": "TOOL",
+    "altNames": [],
+    "tags": []
+    "scopes": [],
+    "description": "Used when referncing changes or additions to tools.",
+    "examples": []
+  }
+}
