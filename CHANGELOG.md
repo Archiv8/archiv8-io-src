@@ -44,7 +44,7 @@ All notable changes to the project are documented in this file using rules based
 | 6b1232c | 2020-03-16 | :wrench: TOOL: Update linter and checker settings     |
 | d51ca6a | 2020-03-13 | :shower: DOC(info): Update static documentation       |
 
-### :tada: &#91;0.0.1&#93; - 2020-03-14
+### :tada: &#91;0.0.1&#93; - 2020-02-06
 
 **This release addresses**
 
