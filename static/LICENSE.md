@@ -1,36 +1,61 @@
-[Archiv8](https://archiv8.github.io/)
+# [Archiv8][a8-url]
 
-_Exploring and Sharing Custom [Arch Linux](https://www.archlinux.org/) PKGBUILDs_
+_Exploring and Sharing Custom [Arch Linux][arch-url] PKGBUILDs_
 
----
-
-_**[Archiv8 Website](https://archiv8.github.io/), https://archiv8.github.io.**_
-
-_**If you find any errors on the [Archiv8 Website](https://archiv8.github.io/),  https://archiv8.github.io, please file them in the [source code repository](https://github.com/Archiv8/archiv8-io-src/issues).**_
+[![Chat on Gitter][gitter-badge]][gitter-url] [![Contributor Covenant, version 2.0.0, adopted][covenant-badge]](CODE-OF-CONDUCT.md) [![Developer Certificate of Origin, version 1.1.0, adopted][certificate-badge]](DEVELOPER-CERTIFICATE-OF-ORIGIN.md)
 
 ---
 
-# License
+## License
 
-Original documentation within this repository is released under the Creative Commons, Attribution-ShareAlike 4.0 International, license.  Any original code that appears in this repository is released under the MIT license.
+The copyright holder reserves the right to update or change the licensing for the contents of this repository as required.
+
+### Code
+
+Original code produced for [Archiv8][a8-url] is released under the [MIT](_MIT.md_) license.
+
+_**Licensing and copyright for upstream code, including the software to be packaged and packaging tools used in the creation of this package, remains as designated by their author and contributors.**_
+
+### Documentation
+
+[![Creative Commons License][cc-image]][cc-terms-url] Documentation is licensed using the [_Creative Commons Attribution-ShareAlike 4.0 International License_](CC-BY-SA-V4.md)
+
+## Attribution
+
+Should there be an error or confusion in the attribution of: upstream sources or external documentation please create an issue for [this repository][a8-issue-url].  A correction will be made as soon as possible.
 
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Documentation for this project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Thanks go out to all [Archiv8 Contributors][a8-contrib-url].
 
-Any original software produced for [Archiv8](https://archiv8.github.io/) and / or quoted within the documentation is released under the MIT License.
+(c) Documentation and Code, 2017 - 2020 Ross Clark
 
-The license for upstream software, including the Arch Linux packaging tools used in the creation of this package, remains as designated by its creator and contributors.
-
-(c) Documentation and Code, 2017 - 2020 Ross Clark and [Archiv8 Contributors](https://github.com/Archiv8/archiv8-io-src/people)
+For information on licensing see [LICENSE.md](LICENSE.md)
 
 ---
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0.0%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
-[Conventional Commits v2.0.0 adopted](https://www.conventionalcommits.org)
-[Keep a Changelog v1.0.0 adopted](https://keepachangelog.com)
-[Semantic Versioning v2.0.0 adopted](https://semver.org)
-[Developer Certificate of Origin v.1.1.0 adopted](https://developercertificate.org)
-[License MIT](https://opensource.org/licenses/MIT)
-[License Creative Commons](https://creativecommons.org)
-[![Gitter](https://badges.gitter.im/Archiv8/community.svg)](https://gitter.im/Archiv8/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Conventional Commits, version 1.0.0, adopted][commits-badge]][commits-url] [![Keep a Changelog, version 1.0.0, adopted][changelog-badge]][change-url] [![Semantic Versioning, version 2.0.0, adopted][semver-badge]][semver-url]
+
+[![Code Released Under MIT License][mit-badge]][mit-url] [![Documentation Released Under Creative Commons, Attribution ShareAlike, 4.0.0 License][cc-badge]][cc-terms-url]
+
+[cc-badge]: https://img.shields.io/badge/License-CC%20by%20SA%204.0.0-informational.svg
+[certificate-badge]: https://img.shields.io/badge/Developer%20Certificate%20of%20Origin-1.1.0-informational.svg
+[changelog-badge]: https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-informational
+[commits-badge]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-informational.svg
+[covenant-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.0.0-informational.svg
+[gitter-badge]: https://badges.gitter.im/Archiv8/community.svg
+[mit-badge]: https://img.shields.io/badge/License-MIT-informational.svg
+[semver-badge]: https://img.shields.io/badge/Semantic%20Versioning-2.0.0-informational.svg
+
+[cc-image]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
+
+[arch-url]: https://www.archlinux.org/
+[a8-url]: https://archiv8.github.io/
+[a8-contrib-url]: https://github.com/Archiv8/archiv8-io-src/people
+[a8-issue-url]: https://github.com/Archiv8/archiv8-io-src/issues
+[cc-terms-url]: http://creativecommons.org/licenses/by-sa/4.0/
+[change-url]: https://keepachangelog.com
+[commits-url]: https://conventionalcommits.org
+[gitter-url]: https://gitter.im/Archiv8/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+[mit-url]: https://opensource.org/licenses/MIT
+[semver-url]: https://semver.org
