@@ -10,29 +10,7 @@ _Exploring and Sharing Custom [Arch Linux][arch-url] PKGBUILDs_
 
 ---
 
-## Issues
-
-[Current](#Current-Issues) || [No Fix](#No-Fix) || [Help Needed](#Help-Needed) || [Upstream](#Upstream)
-
----
-
-Any new issues should be filed here, with the [Archiv8 website source code][a8-issue-url]
-
-### Current Issues
-
-**No Issues Reported**
-
-#### No Fix
-
-**Not Applicable**
-
-#### Help Needed
-
-**Not Applicable**
-
-#### Upstream
-
-**Not Applicable**
+## Dependencies
 
 ---
 
@@ -60,7 +38,6 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 [arch-url]: https://www.archlinux.org/
 [a8-url]: https://archiv8.github.io/
 [a8-contrib-url]: https://github.com/Archiv8/archiv8-io-src/people
-[a8-issue-url]: https://github.com/Archiv8/archiv8-io-src/issues
 [cc-terms-url]: http://creativecommons.org/licenses/by-sa/4.0/
 [change-url]: https://keepachangelog.com
 [commits-url]: https://conventionalcommits.org
