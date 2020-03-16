@@ -136,6 +136,9 @@
 		"!CELEX",
 		"!31996L0009",
 		"moz",
-		"unsmudged"
+		"unsmudged",
+		"dev",
+		"jsdoc",
+		"!devDependencies"
 	]
 }
