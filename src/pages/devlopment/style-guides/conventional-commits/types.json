@@ -1,12 +1,12 @@
 {
-  "changelog": {
-    "emoji": ":date:"
+  "documentation": {
+    "emoji": ":pencil:"
     "altEmojis": [],
-    "name": "LOG",
+    "name": "DOC",
     "altNames": [],
     "tags": [],
     "scopes": [],
-    "description": "Used when refering to a changelog / commit log",
+    "description": "Used when refering to changes in documentation",
     "examples": []
   },
   "fix": {
@@ -19,7 +19,7 @@
     "description": "Used when fixing an issue",
     "examples": []
   },
-  "init": {
+  "initialize": {
     "emoji": ":tada:"
     "altEmojis": [],
     "name": "INIT",
@@ -29,7 +29,7 @@
     "description": "Used when initializing a repository",
     "examples": []
   },
-  "pack": {
+  "package": {
     "emoji": ":gift:"
     "altEmojis": [],
     "name": "PACK",
@@ -39,7 +39,7 @@
     "description": "Used when refering to changes in the packaging, particularly the PKGBUILD and .SRCINFO",
     "examples": []
   },
-  "secure": {
+  "security": {
     "emoji": ":cop:"
     "altEmojis": [],
     "name": "SECURE",

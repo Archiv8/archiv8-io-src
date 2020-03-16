@@ -1,8 +1,48 @@
 {
+  "changelog": {
+    "emoji": ":date:"
+    "altEmojis": [],
+    "name": "log",
+    "altNames": [],
+    "tags": [],
+    "scopes": [],
+    "description": "Used when refering to a changelog / commit log",
+    "examples": []
+  },
+  "information": {
+    "emoji": ":mega:",
+    "altEmojis": [],
+    "name": "info",
+    "altNames": [],
+    "tags": [],
+    "types": [],
+    "description": "Used when information has been updated / changed",
+    "examples": []
+  },
   "integrity": {
-    "emoji": ":wrench:",
+    "emoji": ":id:",
     "altEmojis": [],
     "name": "integ",
+    "altNames": [],
+    "tags": [],
+    "types": [],
+    "description": "Used when new integrity tags have been generated",
+    "examples": []
+  },
+  "spell": {
+    "emoji": ":school:"
+    "altEmojis": [],
+    "name": "TOOL",
+    "altNames": [],
+    "tags": []
+    "scopes": [],
+    "description": "Used when referncing changes or additions to tools.",
+    "examples": []
+  },
+  "tidy": {
+    "emoji": ":shower:",
+    "altEmojis": [],
+    "name": "tidy",
     "altNames": [],
     "tags": [],
     "types": [],
