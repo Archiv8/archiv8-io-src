@@ -1,7 +1,7 @@
 {
   "parser": "espree",
   "plugins": [
-    "eslint-plugin-react"
+    "react"
   ],
   "extends": [
 
